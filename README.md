@@ -1,4 +1,4 @@
-![Jenkins CI/CD](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.slideshare.net%2Fjanakiramm%2Fbuilding-cicd-pipelines-with-jenkins-and-kubernetes&psig=AOvVaw3pgkP4p-Hrylvq1MPyRKgx&ust=1584358410328000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKj-3O-wnOgCFQAAAAAdAAAAABAP)
+![Jenkins CI/CD](https://www.edureka.co/blog/content/ver.1531719070/uploads/2018/07/Asset-36-1.png)
 # Jenkins
 Jenkins is an open source automation tool written in Java with plugins built for Continuous Integration purpose. Jenkins is used to build and test your software projects continuously making it easier for developers to integrate changes to the project, and making it easier for users to obtain a fresh build. It also allows you to continuously deliver your software by integrating with a large number of testing and deployment technologies.
 
